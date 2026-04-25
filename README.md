@@ -6,6 +6,7 @@ Personal OpenClaw skills for Terry.
 
 - **blog-publisher** - 自动添加文章到 Agent Economy 博客
 - **course-learning** - 跟踪课程学习进度
+- **hn-blog-curator** - 从 Hacker News 筛选适合 Agent Economy 的选题
 - **notes** - 保存和管理个人笔记
 - **notion-clip** - 保存推文和笔记到 Notion
 - **portfolio-tracker** - 查询股票持仓市值
